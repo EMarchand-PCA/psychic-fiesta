@@ -1,3 +1,4 @@
 # psychic-fiesta
 Testing for Parks session with EMT
-aloookdofkkjdnfdjn
+
+This is a test repository to practice GitHub
